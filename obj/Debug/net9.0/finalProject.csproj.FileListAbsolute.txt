@@ -1,0 +1,14 @@
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\finalProject.AssemblyInfoInputs.cache
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\finalProject.AssemblyInfo.cs
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\finalProject.csproj.CoreCompileInputs.cache
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\bin\Debug\net9.0\finalProject.exe
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\bin\Debug\net9.0\finalProject.deps.json
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\bin\Debug\net9.0\finalProject.runtimeconfig.json
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\bin\Debug\net9.0\finalProject.dll
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\bin\Debug\net9.0\finalProject.pdb
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\finalProject.dll
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\refint\finalProject.dll
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\finalProject.pdb
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\finalProject.genruntimeconfig.cache
+C:\INFOTC 2040 Spring 25\Projects\C# VS Code\finalProject\obj\Debug\net9.0\ref\finalProject.dll

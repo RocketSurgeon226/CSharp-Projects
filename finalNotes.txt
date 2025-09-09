@@ -1,0 +1,20 @@
+Final Project Notes
+
+(Use Time Machine Lecture as example)
+
+1. Create player class to create Player objects
+Player properties with get/set methods
+ - Name
+ - Wins
+ - Losses
+ - Ties
+ - player Level (enumumerated type)
+ - Method to ser player level based on player's points
+ - Will need to add 1 to wins, or losses, or ties, after each round of play
+ - Set player level anytime points change
+ - Method to determine if a player has enough points to transfer
+ - Method to print player statistics
+
+- New player will have name, and 0s for win, loss, tie
+
+1. Load player data and create player objects first aat begiining of program
